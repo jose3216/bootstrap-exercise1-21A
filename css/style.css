@@ -7,3 +7,6 @@ Bogmærk linkene fra Fronter i din browser!
 Der er masser af indbyggede classes for alt muligt i Bootstrap, f.eks. for typografi, spacing (margin og padding), flexboxes og positionering med meget mere.
 
 Disse indbyggede classes, skal du hellere tilføje i HTML-filen end skrive egen CSS - i hvert fald til at begynde med. */
+#middle-2 {
+  background-color: red;
+}
